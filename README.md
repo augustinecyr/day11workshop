@@ -25,7 +25,7 @@
 13. git merge develop
 
 ### Heroku Commands
-ALWAYS MERGE DEVELOP and BE ON MASTER BRANCH BEFORE DOING THIS
+ALWAYS MERGE DEVELOP AND BE ON MASTER BRANCH BEFORE DOING THIS
 1. heroku login / heroku login -i
 2. heroku apps:create
 3. git push heroku master 
