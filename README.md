@@ -8,6 +8,9 @@
 5. mvnw clean
 6. mvnw clean package spring-boot:run
 7. mvnw spring-boot:run
+8. mvnw spring-boot:run -Dspring-boot.run.arguments="--port=3000"
+9. mvnw spring-boot:run -Dspring-boot.run.arguments="--port=3000 --dataDir=c:\data"
+10. mvnw clean test
 
 ### Git Commands
 1. git init
